@@ -1,3 +1,5 @@
+ cd kapsaline.github.io
+echo "hehehe" > kooliasi
  <html>
 <head>
 <title>Karja leht</title>
